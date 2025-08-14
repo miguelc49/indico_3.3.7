@@ -157,7 +157,7 @@
     "progress-bar-webpack-plugin": "^2.1.0",
     "redux-mock-store": "^1.5.4",
     "resolve-url-loader": "^5.0.0",
-    "sass": "^1.64.1",
+    "sass": "^1.89.2",
     "sass-loader": "^14.1.1",
     "script-loader": "^0.7.2",
     "semver": "^7.3.7",
