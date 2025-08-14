@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.26.10",
-    "@dr.pogodin/babel-plugin-react-css-modules": "~6.1.1",
+    "@dr.pogodin/babel-plugin-react-css-modules": "~6.13.6",
     "@monaco-editor/react": "^4.6.0",
     "@tinymce/tinymce-react": "^4.3.0",
     "ajv": "^8.11.0",
